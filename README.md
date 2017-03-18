@@ -13,3 +13,7 @@ Sample introduction
 ## Deployment
 
 Sample deployment
+
+## Copyright
+
+Sample copyright
