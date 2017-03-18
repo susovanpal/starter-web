@@ -16,4 +16,4 @@ Sample deployment
 
 ## Copyright
 
-Sample copyright
+Sample copyright for Susovan Pal
